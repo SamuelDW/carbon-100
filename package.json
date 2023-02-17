@@ -1,0 +1,18 @@
+{
+  "name": "@kpopfan4life/carbon-100",
+  "version": "1.0.0",
+  "description": "Small CSS package for carbon 100 theme.",
+  "bugs": "https://github.com/SamuelDW/carbon-100/issues",
+  "main": "index.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamuelDW/carbon-100"
+  },
+  "keywords": [
+    "carbon-100",
+    "dark-theme",
+    "scss"
+  ],
+  "author": "",
+  "license": "ISC"
+}
